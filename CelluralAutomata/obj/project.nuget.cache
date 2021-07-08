@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RBlCXJR8LoB4N6C0MKmm4ybgsA0tT5nf//pHHXdsO8UpKNHt8kjMwBrNKUhMcznfAjezubLfrENt/KMAgMKQ8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kacper\\Documents\\CelluralAutomata\\CelluralAutomata.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kacper\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Kacper\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Kacper\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
