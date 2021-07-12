@@ -1,1 +1,8 @@
 .cache
+.assets.cache
+.AssemblyReference.cache
+CelluralAutomata.csproj.FileListAbsolute.txt
+CelluralAutomata.csproj.nuget.dgspec.json
+project.assets.json
+project.nuget.cache
+CelluralAutomata.genruntimeconfig.cache
