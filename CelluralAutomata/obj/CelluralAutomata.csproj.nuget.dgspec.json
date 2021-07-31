@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kacper\\Documents\\MyCelluralAutomataProject\\CelluralAutomata\\CelluralAutomata.csproj": {}
+    "/home/ashingi/Desktop/gitrepos/MyCelluralAutomataProject/CelluralAutomata/CelluralAutomata.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kacper\\Documents\\MyCelluralAutomataProject\\CelluralAutomata\\CelluralAutomata.csproj": {
+    "/home/ashingi/Desktop/gitrepos/MyCelluralAutomataProject/CelluralAutomata/CelluralAutomata.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kacper\\Documents\\MyCelluralAutomataProject\\CelluralAutomata\\CelluralAutomata.csproj",
+        "projectUniqueName": "/home/ashingi/Desktop/gitrepos/MyCelluralAutomataProject/CelluralAutomata/CelluralAutomata.csproj",
         "projectName": "CelluralAutomata",
-        "projectPath": "C:\\Users\\Kacper\\Documents\\MyCelluralAutomataProject\\CelluralAutomata\\CelluralAutomata.csproj",
-        "packagesPath": "C:\\Users\\Kacper\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kacper\\Documents\\MyCelluralAutomataProject\\CelluralAutomata\\obj\\",
+        "projectPath": "/home/ashingi/Desktop/gitrepos/MyCelluralAutomataProject/CelluralAutomata/CelluralAutomata.csproj",
+        "packagesPath": "/home/ashingi/.nuget/packages/",
+        "outputPath": "/home/ashingi/Desktop/gitrepos/MyCelluralAutomataProject/CelluralAutomata/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Kacper\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/ashingi/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/129/sdk/5.0.301/RuntimeIdentifierGraph.json"
         }
       }
     }
