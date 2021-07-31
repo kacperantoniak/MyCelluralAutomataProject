@@ -19,8 +19,10 @@ namespace CelluralAutomata
             //IntPtr h = Process.GetCurrentProcess().MainWindowHandle;
             //ShowWindow(h, 0);
 
-            Loopname loop = new Test(1300, 900 ,"works!");
-            loop.Run();
+            RenderLoop render = new RenderGroundObject(1300, 900 ,"works!");
+            render.Run();
+            /*RenderLoop test = new Test(1300, 900 ,"works!");
+            test.Run();*/
         }
     }
 }

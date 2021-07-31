@@ -56,7 +56,7 @@ namespace CelluralAutomata.Rendering.Display
             //VSync off = 0, on = 1
             Glfw.SwapInterval(0);
 
-            Glfw.SetCursorPositionCallback(Window, MouseCallbacks.cursorPositionCallback);
+            //Glfw.SetCursorPositionCallback(Window, MouseCallbacks.cursorPositionCallback);
             Glfw.SetMouseButtonCallback(Window, MouseCallbacks.mouseButtonCallback);
         }
 
