@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RBlCXJR8LoB4N6C0MKmm4ybgsA0tT5nf//pHHXdsO8UpKNHt8kjMwBrNKUhMcznfAjezubLfrENt/KMAgMKQ8A==",
+  "dgSpecHash": "TeM6ZgxxzQ0INWyYf8yaAPOGpMbNa3nSEVcPlHb6j9x6C0Xuex0UqNACqZCGH+J5O6IkBZz6uDpv17wtX3eC4g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kacper\\Documents\\CelluralAutomata\\CelluralAutomata.csproj",
+  "projectFilePath": "C:\\Users\\Kacper\\Desktop\\MyCelluralAutomataProject-main\\CelluralAutomata\\CelluralAutomata.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kacper\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\Kacper\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",

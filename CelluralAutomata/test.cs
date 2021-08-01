@@ -6,7 +6,7 @@ using static CelluralAutomata.OpenGL.GL;
 
 namespace CelluralAutomata
 {
-    class Test : Loopname
+    class Test : RenderLoop
     {
         uint vao;
         uint vbo;
@@ -60,9 +60,9 @@ namespace CelluralAutomata
                 0.01f, 0.01f, 0f, 1f, 0f,// top right
                 -0.01f, -0.01f, 0f, 1f, 0f, // bottom left
 
-                0.01f, 0.01f, 0f, 1f, 0f,// top right
+                /*0.01f, 0.01f, 0f, 1f, 0f,// top right
                 0.01f, -0.01f, 0f, 1f, 0f, // bottom right
-                -0.01f, -0.01f, 0f, 1f, 0f, // bottom left
+                -0.01f, -0.01f, 0f, 1f, 0f, // bottom left*/
             };
 
             fixed(float* v = &vertices[0])

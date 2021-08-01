@@ -10,17 +10,19 @@ namespace CelluralAutomata
     public class Program
     {
         //makes the console disappear while the program is running
-        //[DllImport("user32.dll")]
-        //static extern bool ShowWindow(IntPtr hWnd, int nCmdShow);
+        [DllImport("user32.dll")]
+        static extern bool ShowWindow(IntPtr hWnd, int nCmdShow);
 
         public static void Main(string[] args)
         {
             //part 2 of disappearing cmd
-            //IntPtr h = Process.GetCurrentProcess().MainWindowHandle;
-            //ShowWindow(h, 0);
+            IntPtr h = Process.GetCurrentProcess().MainWindowHandle;
+            ShowWindow(h, 0);
 
-            Loopname loop = new Test(1300, 900 ,"works!");
-            loop.Run();
+            RenderLoop render = new RenderGroundObject(1300, 900 ,"works!");
+            render.Run();
+            //RenderLoop test = new Test(1300, 900 ,"works!");
+            //test.Run();
         }
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kacper\\Documents\\CelluralAutomata\\CelluralAutomata.csproj": {}
+    "C:\\Users\\Kacper\\Desktop\\MyCelluralAutomataProject-main\\CelluralAutomata\\CelluralAutomata.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kacper\\Documents\\CelluralAutomata\\CelluralAutomata.csproj": {
+    "C:\\Users\\Kacper\\Desktop\\MyCelluralAutomataProject-main\\CelluralAutomata\\CelluralAutomata.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kacper\\Documents\\CelluralAutomata\\CelluralAutomata.csproj",
+        "projectUniqueName": "C:\\Users\\Kacper\\Desktop\\MyCelluralAutomataProject-main\\CelluralAutomata\\CelluralAutomata.csproj",
         "projectName": "CelluralAutomata",
-        "projectPath": "C:\\Users\\Kacper\\Documents\\CelluralAutomata\\CelluralAutomata.csproj",
+        "projectPath": "C:\\Users\\Kacper\\Desktop\\MyCelluralAutomataProject-main\\CelluralAutomata\\CelluralAutomata.csproj",
         "packagesPath": "C:\\Users\\Kacper\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kacper\\Documents\\CelluralAutomata\\obj\\",
+        "outputPath": "C:\\Users\\Kacper\\Desktop\\MyCelluralAutomataProject-main\\CelluralAutomata\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kacper\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

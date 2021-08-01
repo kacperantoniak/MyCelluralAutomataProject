@@ -4,13 +4,13 @@ using System;
 
 namespace CelluralAutomata.Loop
 {
-    abstract class Loopname
+    abstract class RenderLoop
     {
         protected int InitialWindowWidth{ get; set; }
         protected int InitialWindowHeight{ get; set; }
         protected string InitialWindowTitle{ get; set; }
 
-        public Loopname(int initialWindowWidth, int initialWindowHeight, string initialWindowTitle)
+        public RenderLoop(int initialWindowWidth, int initialWindowHeight, string initialWindowTitle)
         {
             this.InitialWindowWidth = initialWindowWidth;
             this.InitialWindowHeight = initialWindowHeight;
